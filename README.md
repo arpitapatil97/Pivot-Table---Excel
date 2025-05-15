@@ -21,10 +21,10 @@ This project is an interactive Excel dashboard created using Pivot Tables, Slice
 
 To learn and demonstrate Excel dashboarding skills by simulating a real-world sales scenario. This project reflects an understanding of data visualization and data interaction techniques using Excel alone.
 
-## 📷 Screenshot
+## 📷 Screenshot and File
 
 ! Excel file](https://github.com/arpitapatil97/Pivot-Table---Excel/blob/5a01e31469852d5afe50fa48157ae3afaf9102b7/Pivot-Table-Dashboard%20(Recovered).xlsx)
-Dashboard_Screenshot 
+Dashboard_Screenshot [https://github.com/arpitapatil97/Pivot-Table---Excel/blob/c6a1f857e62b7d5776723535edab6f896ccfae20/Screenshot%202025-05-15%20231007.png]
 ---
 
 ### 👩‍💼 Who This Is For
