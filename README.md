@@ -23,8 +23,8 @@ To learn and demonstrate Excel dashboarding skills by simulating a real-world sa
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](images/dashboard.png)
-
+! Excel file](https://github.com/arpitapatil97/Pivot-Table---Excel/blob/5a01e31469852d5afe50fa48157ae3afaf9102b7/Pivot-Table-Dashboard%20(Recovered).xlsx)
+Dashboard_Screenshot 
 ---
 
 ### 👩‍💼 Who This Is For
